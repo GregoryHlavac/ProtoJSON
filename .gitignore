@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+*.log
+*.tlog
+*.obj
+*.user
+*.pch
+*.pdb
+*.lastbuildstate
+*.idb
